@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brennan</h1>
-<h3 align="center">JavaScript dev living in Knoxville, TN.</h3>
+<h3 align="center">I'm a JavaScript dev living in Knoxville, TN.</h3>
 
 - 🔭 I’m currently working on [Watermelon King](https://github.com/bduckdev/watermelon-king)
 
