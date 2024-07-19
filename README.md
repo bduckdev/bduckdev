@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [bduck.dev/portfolio](bduck.dev/portfolio)
+- 👨‍💻 All of my projects are available at [bduck.dev/portfolio](https://bduck.dev/portfolio)
 
-- 📝 I regularly write articles on [bduck.dev/blog](bduck.dev/blog)
+- 📝 I regularly write articles on [bduck.dev/blog](https://bduck.dev/blog)
 
 - 💬 Ask me about **HTMX and Alpine.js**
 
 - 📫 How to reach me **brennantduck@gmail.com**
 
-- 📄 Know about my experiences [bduck.dev/resume](bduck.dev/resume)
+- 📄 Know about my experiences [bduck.dev/resume](https://bduck.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
