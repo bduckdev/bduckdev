@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [bduck.dev/blog](https://bduck.dev/blog)
 
-- 💬 Ask me about **HTMX and Alpine.js**
-
 - 📫 How to reach me **brennantduck@gmail.com**
 
 - 📄 Know about my experiences [bduck.dev/resume](https://bduck.dev/resume)
